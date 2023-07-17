@@ -18,7 +18,7 @@ Angora is a simple and elegant landing page template designed to showcase your p
 
 To get started with Angora, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/mahmoudmortada97/Angora.git
 
 2. Customize the content of the landing page by editing the HTML and CSS files. Add your branding, images, and text to create a personalized experience.
 
